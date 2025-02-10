@@ -18,4 +18,3 @@ Feature Extraction
 Final KNN Model Result 
 - Training Accuracy : 100 % ,
 - Test Accuracy : 90 %
->>>>>>> fc7d0f5 (commit)
