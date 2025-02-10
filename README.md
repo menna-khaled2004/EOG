@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # EOG
-=======
+
 Preprocessing
 - DC Removal
 Subtract the mean of each signal to center it around zero , To reduce the sharpening of the signal
